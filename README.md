@@ -5,7 +5,7 @@ This project focuses on building a machine learning model to classify credit sco
 
 ## Project Objective
 - Analyze temporal trends and significant financial events affecting credit scores.
-- Evaluate the impact of financial events (e.g., job loss, loan default) on credit scores using machine learning models.
+- Evaluate the impact of financial events (e.g. loan default) on credit scores using machine learning models.
 - Develop a predictive model for creditworthiness evaluation.
 
 ## Data Overview
